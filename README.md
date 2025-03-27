@@ -1,3 +1,6 @@
+# 💫 About Me:
+:mortar_board: CS Honors Graduate from San Jose State University<br>:necktie: Aspiring Software Engineer and Entrepreneur<br>:mag: Agentic AI and Vibe Coding<br>:computer: Full-Stack Web and Mobile Development<br>⚡ Let's Collaborate!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reshajmaskey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maskey.reshaj@gmail.com) 
